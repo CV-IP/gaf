@@ -4,6 +4,9 @@
 ##  &emsp; &emsp; [Paper](https://www.bmvc2020-conference.com/assets/papers/0055.pdf) &emsp;  [Supplemental](https://www.bmvc2020-conference.com/assets/supp/0055_supp.zip) &emsp;      [Project](http://urafique.com/gaf/) &emsp;  [Talk](https://www.bmvc2020-conference.com/conference/papers/paper_0055.html)
 
 
+![result1](https://github.com/Usman-Rafique/Usman-Rafique.github.io/blob/master/images/animation_AF_Plus01.gif)
+
+
 ## Pre-trained Model
 Pretrained models are included in this repo under `checkpoints/`
 
