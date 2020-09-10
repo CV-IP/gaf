@@ -5,6 +5,7 @@
 
 
 ![result1](https://github.com/Usman-Rafique/Usman-Rafique.github.io/blob/master/images/animation_AF_Plus01.gif)
+![result1](https://github.com/Usman-Rafique/Usman-Rafique.github.io/blob/master/images/animation_AF_Plus35.gif)
 
 
 ## Pre-trained Model
