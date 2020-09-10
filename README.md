@@ -28,12 +28,7 @@ For quantitative evaluation, or to generate visual results, please select the co
 For visual results, run `python3 visualize.py`. For quantitative evaluation `python3 eval_trained.py`.
 
 ## BPS Dataset
-All panoramic images have been north-aligned, cropped, and resized to the size 960 (width) x 160 (height). There are a total of 44 092 examples in the dataset; every example has two images and the relative camera transformations. This is the dataset organization:
-
-BPS
-├── images 
-
-└── splits
+All panoramic images have been north-aligned, cropped, and resized to the size 960 (width) x 160 (height). There are a total of 44 092 examples in the dataset; every example has two images and the relative camera transformations. 
 
 We have collected the dataset from google street view images. To ensure fair use and avoid duplication, please send an email to usman dot rafique @ uky . edu. We will share the dataset link by email. 
 
