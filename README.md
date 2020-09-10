@@ -1,7 +1,7 @@
 # Generative Appearance Flow: A Hybrid Approach for Outdoor View Synthesis
 &emsp; &emsp; [Muhammad Usman Rafique](http://urafique.com), &emsp; [Hunter Blanton](https://hblanton.github.io/), &emsp; [Noah Snavely](http://www.cs.cornell.edu/~snavely/), &emsp; [Nathan Jacobs](https://jacobsn.github.io/)
 
-##  &emsp; &emsp; [Paper](https://www.bmvc2020-conference.com/assets/papers/0055.pdf) &emsp;  [Supplemental](https://www.bmvc2020-conference.com/assets/supp/0055_supp.zip) &emsp;      [Code](https://github.com/Usman-Rafique/gaf) &emsp;  [Talk](https://www.bmvc2020-conference.com/conference/papers/paper_0055.html)
+##  &emsp; &emsp; [Paper](https://www.bmvc2020-conference.com/assets/papers/0055.pdf) &emsp;  [Supplemental](https://www.bmvc2020-conference.com/assets/supp/0055_supp.zip) &emsp;      [Project](http://urafique.com/gaf/) &emsp;  [Talk](https://www.bmvc2020-conference.com/conference/papers/paper_0055.html)
 
 
 ## Pre-trained Model
