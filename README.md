@@ -23,7 +23,7 @@ For training, you can specify a directory through `cfg.train.out_dir` (in `confi
 3. GAF: run `python3 train_GAF.py`. Trained AF++ and FDS are required. These are included in `checkpoints/` and will be loaded by default.
 
 ### Evaluation & Visualization
-For quantitative evaluation, or to generate visual results, please select the correct directory in which trained models are saved, or set `cfg.train.out_dir=checkpoints`. Also, make sure to set the desired network through `cfg.model.name`.
+For quantitative evaluation, or to generate visual results, please select the correct directory in which trained models are saved, or set `cfg.train.out_dir='checkpoints'`. Also, make sure to set the desired network through `cfg.model.name`.
 
 For visual results, run `python3 visualize.py`. For quantitative evaluation `python3 eval_trained.py`.
 
